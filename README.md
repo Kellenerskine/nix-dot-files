@@ -10,8 +10,7 @@ Following are tips for myself when I eventually forget how to use Nix and want t
 
 -Files in "dot-config" belong in ~/.config
 
--Files in "etc-nixos" belong in /etc/nixos
-  -alternatively, you can put the .nix file anywhere and point to it when rebuilding
+-Files in "etc-nixos" belong in /etc/nixos (alternatively, you can put the .nix file anywhere and point to it when rebuilding)
   
   ``nixos-rebuild switch -I nixos-config=<path to file>``
 
