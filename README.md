@@ -11,3 +11,5 @@ Following are tips for myself when I eventually forget how to use Nix and want t
 -Files in "etc-nixos" belong in /etc/nixos
 
 -Files in "wallpapers" belong in /home/USER/wallpapers
+
+-On reinstall, ensure shell scripts contain the correct files paths
