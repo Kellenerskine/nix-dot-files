@@ -6,8 +6,8 @@ Following are tips for myself when I eventually forget how to use Nix and want t
 - $ sudo nano /etc/nixos/configuration.nix
 - $ sudo nixos-rebuild switch
 
-Files in "dot-config" belong in ~/.config
+-Files in "dot-config" belong in ~/.config
 
-Files in "etc-nixos" belong in /etc/nixos
+-Files in "etc-nixos" belong in /etc/nixos
 
-Files in "wallpapers" belong in /home/USER/wallpapers
+-Files in "wallpapers" belong in /home/USER/wallpapers
