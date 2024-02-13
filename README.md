@@ -10,7 +10,8 @@ Following are tips for myself when I eventually forget how to use Nix and want t
 
 -Files in "etc-nixos" belong in /etc/nixos
   -alternatively, you can put the .conf file anywhere and point to it when rebuilding
-    -``nixos-rebuild switch -I nixos-config=<path to file>``
+  
+    - ``nixos-rebuild switch -I nixos-config=<path to file>``
 
 -Files in "wallpapers" belong in /home/USER/wallpapers
 
