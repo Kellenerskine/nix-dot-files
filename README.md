@@ -2,7 +2,7 @@ These are my NixOs config files for backup purposes as well as for making re-ins
 
 Following are tips for myself when I eventually forget how to use Nix and want to reinstall:
 
--To edit conf files:
+-To edit config files:
 
   ``sudo nano /etc/nixos/configuration.nix``
   
